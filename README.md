@@ -7,7 +7,7 @@ Medical Shop is an application let's you manage your inventory and eases your bi
 
 ## Bill a Medicine
 
-This module helps staf to prepare a bill for customer.
+This module helps staff to prepare a bill for customer.
 
 ![](https://i.imgur.com/AEUUVBu.jpg)
 
